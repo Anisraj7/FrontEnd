@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "name": "anisraj",
+      "age": "",
+      "experience": "",
+      "salary": "10000000",
+      "company": "google",
+      "id": 1
+    },
+    {
+      "name": "sectcion",
+      "salary": "",
+      "company": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 4
+    }
+  ]
+}
